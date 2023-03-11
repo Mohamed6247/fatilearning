@@ -1,1 +1,1 @@
-my first readme update with vim
+fati learning day
